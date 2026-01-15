@@ -1,0 +1,7 @@
+{
+  "name": "EPRATU Metalore",
+  "description": "Uma bússola para navegar as transições do mundo contemporâneo. Um metalore vivo de reflexão e prática.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
